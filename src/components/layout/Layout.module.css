@@ -1,0 +1,15 @@
+.pairs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+button {
+  width: 340px;
+  height: 48px;
+  background-color: #cd264f;
+  color: #ffffff;
+  border-radius: 4px 4px 4px 0px;
+}

@@ -1,0 +1,12 @@
+.secondpair {
+  width: 340px;
+  background-color: #fff4f7;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #F88CA7;
+  margin: 1rem;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}

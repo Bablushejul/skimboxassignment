@@ -1,0 +1,27 @@
+.bundle {
+  width: 340px;
+  height: 22px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  
+}
+
+.bundleone {
+  background-color: #d9d9d9;
+  height: 1px;
+  width: 35vw;
+}
+
+.bundletwo {
+  margin-top: 0rem;
+  width: 32vw;
+  color: #cd264f;
+  margin: 1px;
+}
+.bundlethree {
+  background-color: #d9d9d9;
+  height: 1px;
+  width: 35vw;
+}

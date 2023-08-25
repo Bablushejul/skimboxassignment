@@ -1,0 +1,10 @@
+.firstpar {
+  width: 340px;
+  border: 1px solid black;
+  margin: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}

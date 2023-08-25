@@ -1,0 +1,15 @@
+.SecondPairOffer {
+  margin-top: 1rem;
+  margin-right: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.popular {
+  color: #f88ca7;
+  margin-bottom: 0rem;
+}
+
+.offer {
+  margin-top: 0rem;
+}

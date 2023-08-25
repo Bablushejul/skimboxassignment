@@ -1,0 +1,9 @@
+.Container {
+  display: flex;
+  width: 340px;
+  justify-content: space-between;
+}
+
+.Containerone {
+  color: #cd264f;
+}
