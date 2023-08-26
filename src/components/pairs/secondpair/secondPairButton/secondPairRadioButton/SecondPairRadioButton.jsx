@@ -9,7 +9,7 @@ const SecondPairRadioButton = () => {
       <input type="radio" name="1pair"  />
     </div>
     <div  className={classes.radioPrice}>
-      <p style={{marginBottom:"0rem"}}> 1 Pair </p>
+      <p style={{marginBottom:"0rem"}}> 2 Pair </p>
       <h5 style={{marginTop:"0rem"}}>DKK 195.00</h5>
     </div>
     </div>
