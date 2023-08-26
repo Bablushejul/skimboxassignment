@@ -1,8 +1,9 @@
 import React from 'react';
+import classes from './FirstPairOffer.module.css'
 
 const FirstPairOffer = () => {
   return (
-    <div style={{marginTop:"1rem",marginRight:"1rem"}}>
+    <div  className={classes.FirstPairOffer}>
     <p> 50 % OFF </p>
   </div>
   );

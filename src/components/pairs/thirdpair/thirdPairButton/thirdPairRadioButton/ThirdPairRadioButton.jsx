@@ -4,10 +4,17 @@ import classes from "./ThirdPairRadioButton.module.css";
 const ThirdPairRadioButton = () => {
   return (
     <div>
-      <input type="radio" name="1pair" className={classes.radio} />
-      <label> 3 Pair </label>
-      <h5 className={classes.radioPrice}>DKK 528.00</h5>
+    <div style={{display:"flex"}}>
+    <div className={classes.radio}>
+      <input type="radio" name="1pair"  />
     </div>
+    <div  className={classes.radioPrice}>
+      <p style={{marginBottom:"0rem"}}> 3 Pair </p>
+      <h5 style={{marginTop:"0rem"}}>DKK 528.00</h5>
+    </div>
+    </div>
+    
+  </div>
   );
 };
 
